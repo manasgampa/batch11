@@ -3,6 +3,8 @@ package net.antra;
 public class Child extends Parent{
 
 	//it is a child class
+	
+	//it is child class made chages
 	int j=20;
 	
 	
