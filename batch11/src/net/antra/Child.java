@@ -2,7 +2,7 @@ package net.antra;
 
 public class Child extends Parent{
 
-	
+	//it is a child class
 	int j=20;
 	
 	
