@@ -4,7 +4,7 @@ public class Child extends Parent{
 
 	//it is a child class
 	
-	//it is child class made chages
+	//it is child class made chages to new one
 	int j=20;
 	
 	
